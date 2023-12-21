@@ -13,7 +13,7 @@
     --form-valid: #42bc34;
     --form-invalid: #dc3545;
     --form-btn-primary-text: #fff;
-    --form-btn-primary-bgcolor: #4a95ec;
+    --form-btn-primary-bgcolor: #21c0ed;
     --form-btn-primary-hover: #4684ca;
     --form-btn-primary-active: #4273aa;
     --form-btn-secondary-text: #384249;
@@ -604,7 +604,7 @@
     --card-textColor: #384249;
     --card-borderRadius: 4px;
     --card-boxShadow: 0 2px 4px 0 rgba(0, 0, 0, 0.35);
-    --card-primaryColor: #4a95ec;
+    --card-primaryColor: #21c0ed;
     --card-badgeBgColor: var(--card-textColor);
     --card-headerBgColor: #666;
     --card-badgeStatusActiveColor: var(--card-primaryColor);
@@ -1603,7 +1603,7 @@ select.mppw-form-field__control,
 }
 
 .toggle--input:checked + .toggle--label {
-    background: #4a95ec;
+    background: #21c0ed;
 }
 
 .toggle--input + .toggle--label {
@@ -1650,7 +1650,7 @@ select.mppw-form-field__control,
 }
 
 .toggle--btn {
-    background: #4a95ec;
+    background: #21c0ed;
     border-radius: 4px;
     border: 0;
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.35);
@@ -2001,7 +2001,7 @@ input::-webkit-date-and-time-value {
 }
 
 .mpp-household .mpp-household--header-wrapper {
-    color: #4a95ec;
+    color: #21c0ed;
     font-weight: bold;
     display: flex;
     align-items: center;
@@ -2352,7 +2352,7 @@ input::-webkit-date-and-time-value {
     --innerPage-textColor: #384249;
     --innerPage-fontSize: 18px;
     --innerPage-lineHeight: 34px;
-    --innerPage-primaryColor: #4a95ec;
+    --innerPage-primaryColor: #21c0ed;
     --innerPage-boxShadow: 0 2px 4px 0 rgba(0, 0, 0, 0.35);
     --innerPage-borderRadius: 4px;
     /* headers */
@@ -2918,7 +2918,7 @@ table.mppw-invoice tfoot #totalDueLabel, .mppw-invoice-summary-label {
 }
 
 .mppw-login--container {
-    color: #4a95ec;
+    color: #21c0ed;
     display: flex;
     align-items: center;
     justify-content: flex-end;
@@ -2944,7 +2944,7 @@ table.mppw-invoice tfoot #totalDueLabel, .mppw-invoice-summary-label {
     }
 
 .mppw-loggedout--username {
-    color: #4a95ec;
+    color: #21c0ed;
     display: inline-flex;
     align-items: center;
     justify-content: flex-end;
@@ -2999,7 +2999,7 @@ table.mppw-invoice tfoot #totalDueLabel, .mppw-invoice-summary-label {
     .mppw-login--list-item a:hover,
     .mppw-login--list-item a:focus {
         background: #f6f7f9;
-        color: #4a95ec;
+        color: #21c0ed;
         text-decoration: underline;
     }
 
@@ -3657,7 +3657,7 @@ select:focus + .focus {
 }
 
 .mpp-online-directory .mpp-online-directory--header-wrapper {
-    color: #4a95ec;
+    color: #21c0ed;
     font-weight: bold;
     display: block;
     align-items: center;
@@ -4036,7 +4036,7 @@ select:focus + .focus {
 }
 
 .mpp-planyourvisit .mpp-planyourvisit--header-wrapper {
-    color: #4a95ec;
+    color: #21c0ed;
     font-weight: bold;
     display: flex;
     align-items: center;
@@ -4720,7 +4720,7 @@ select:focus + .focus {
 }
 
 .mpp-subscriptions--subheader .mpp-subscriptions--sortable {
-    color: #4a95ec;
+    color: #21c0ed;
     cursor: pointer;
     text-decoration: underline;
 }
